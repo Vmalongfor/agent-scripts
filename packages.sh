@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 ## author: Veroline
 #### Date: 10/19/2022
 #### This is a script to install packages on centos7.
